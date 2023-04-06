@@ -10,6 +10,8 @@ Modelde;
 - optimizer olarak 'man'
 kullanıldı.
 
+[Gift](https://www.fleetscience.org/sites/default/files/images/neural-mlblog.gif)
+
 Communication 'ruzgiarr@gmail.com'
 
 [My Repositories👀](https://github.com/ruzgiiar?tab=repositories)
