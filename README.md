@@ -1,6 +1,6 @@
 # ML-Classification-Model
 
-<img align="right" alt="Coding" src="https://www.fleetscience.org/sites/default/files/images/neural-mlblog.gif">
+<img align="right" alt="Coding" width="400" src="https://amplify.nabshow.com/wp-content/uploads/sites/12/2022/02/AI-deeplearning.gif">
 
 400 gözlem ve 5 colonun bulundugu veri setinden kişinin; cinsiyet, yaş ve maaşına göre sosyal medyada reklam verme durumu tahmin edildi.
 
@@ -9,8 +9,6 @@ Modelde;
 - loss olarak 'binary_crossentropy'
 - optimizer olarak 'man'
 kullanıldı.
-
-![Gift](https://www.fleetscience.org/sites/default/files/images/neural-mlblog.gif)
 
 Communication 'ruzgiarr@gmail.com'
 
